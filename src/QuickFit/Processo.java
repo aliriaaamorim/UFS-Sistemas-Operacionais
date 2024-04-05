@@ -1,3 +1,5 @@
+package QuickFit;
+
 class Processo {
 
     private boolean onExecution;

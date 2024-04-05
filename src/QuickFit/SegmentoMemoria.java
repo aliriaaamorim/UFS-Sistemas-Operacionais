@@ -1,3 +1,5 @@
+package QuickFit;
+
 class SegmentoMemoria {
 
     private boolean ocupado;
